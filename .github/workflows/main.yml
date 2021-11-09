@@ -4,7 +4,7 @@ on:
     branches:
       - main
     tags:
-      — '*'
+      - '*'
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: t2bot/gitlab-maubot
